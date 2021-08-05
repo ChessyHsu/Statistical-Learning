@@ -1,2 +1,4 @@
 # ML
-some ml model implementations
+GPR
+KNN
+
