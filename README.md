@@ -1,4 +1,4 @@
-# SStatistical Learning：Theory and Applications
+# Statistical Learning：Theory and Applications
 - hw1: KNN
 - hw2: regression
 - hw3: classification
